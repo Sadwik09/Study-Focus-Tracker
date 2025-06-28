@@ -1,5 +1,6 @@
 # Study-Focus-Tracker-
 https://study-focus-tracker.netlify.app/
+
 Study-Focus-Tracker
 Overview
 The Study-Focus-Tracker is a tool designed to help users monitor and improve their study habits. It allows users to track their focus levels, study sessions, and productivity over time, providing insights and analytics to enhance learning efficiency.
